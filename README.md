@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ishaniis, Ishan S. , a recent masters-grad at Clemson University 
+- 👋 Hi, I’m @ishaniis, Ishan S. , a recent masters-grad from Clemson University 
 - Specialization: Computational Mechanics & Dynamics for Robotics
 - 👀 I’m interested in Autonomous Mobility, Vehicle Dynamics, Perception, Control functional safety in Autonomous Mobility. 
 - 🌱 I’m currently learning Reinforcement Learning, DQN, Model-based control for ADAS (Advanced Driving Assistance Systems) , advanced models of Computer Vision and Deep Neural Networks. 
