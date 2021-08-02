@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ishaniis, Ishan S. , a recent masters-grad at Clemson University 
-- 👀 I’m interested in Autonomous Mobility 
+- 👀 I’m interested in Autonomous Mobility, Vehicle Dynamics and functional safety in Autonomous Mobility. 
 - 🌱 I’m currently learning Reinforcement Learning, DQN, Model-based control for ADAS 
 - 💞️ I’m looking to collaborate on AWS DeepRacer, F110th and CARLA simulation competition
 - 📫 How to reach me sharmaishan1508@gmail.com , isharm2@clemson.edu 
