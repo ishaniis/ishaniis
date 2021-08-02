@@ -2,7 +2,7 @@
 - Specialization: Computational Mechanics & Dynamics for Robotics
 - 👀 I’m interested in Autonomous Mobility, Vehicle Dynamics, Perception, Control functional safety in Autonomous Mobility. 
 - 🌱 I’m currently learning Reinforcement Learning, DQN, Model-based control for ADAS (Advanced Driving Assistance Systems) , advanced models of Computer Vision and Deep Neural Networks. 
-- 💞️ I’m looking to collaborate on AWS DeepRacer, F110th and CARLA simulation competition
+- 💞️ I’m looking to collaborate on AWS DeepRacer, F1tenth and CARLA simulation competition
 - 📫 How to reach me sharmaishan1508@gmail.com , isharm2@clemson.edu 
 
 My technical proficiencies include:
