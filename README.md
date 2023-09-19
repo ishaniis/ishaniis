@@ -16,10 +16,13 @@ My technical proficiencies include:
 - Other Skills: Machine Learning, Docker, GIT, Kubernetes, Autoware.auto, Carla, LGSVL, Simulink, Polyspace, VehicleSPY, Vector CANoe, Vector DaVinci, Computer Vision
 
 - Certifications:
-- RHCSA (v7.5/v8.0), RHCoE (Ansible)
-- Azure AI 500, AZ 400, DP 400
-- SAFe v6.0 Product Owner
-- CSM(Certified Scrum Master) 
+- - RHCSA (v7.5/v8.0), RHCoE (Ansible)
+- - Azure:
+  -  AI 500
+  -  AZ 400
+  -  DP 400
+- - SAFe v6.0 Product Owner
+- - CSM(Certified Scrum Master) 
 
 
 <!---
