@@ -16,10 +16,14 @@ My technical proficiencies include:
 - Other Skills: Machine Learning, Docker, GIT, Kubernetes, Autoware.auto, Carla, LGSVL, Simulink, Polyspace, VehicleSPY, Vector CANoe, Vector DaVinci, Computer Vision
 
 - Certifications:
-- - RHCSA (v7.5/v8.0), RHCoE (Ansible)
+- - RHCSA (v7.5/v8.0)
+https://www.linkedin.com/in/ishansadasad/details/featured/1584389649116/single-media-viewer?type=DOCUMENT&profileId=ACoAAANeD1wBT8oK_QMYYm0Dd7ErbFud4C3xQls&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured_details%3Bi8rGYo3tQzqkoenT1VoHJg%3D%3D
+  - RHCoE (Ansible)
 - - Azure:
   -  AI 500
+    
   -  AZ 400
+  
   -  DP 400
 - - SAFe v6.0 Product Owner
 - - CSM(Certified Scrum Master) 
