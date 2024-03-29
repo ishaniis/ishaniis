@@ -17,6 +17,7 @@ My technical proficiencies include:
 
 - Certifications:
 - - RHCSA (v7.5/v8.0)
+![RHCSA](https://github.com/ishaniis/machine_learning_using_python/assets/51213452/ce6d4cdc-d013-42f2-b7fd-77a0f145b96b)
 
   - RHCoE (Ansible)
 - - Azure:
@@ -27,7 +28,7 @@ My technical proficiencies include:
   -  DP 400
 - - SAFe v6.0 Product Owner
 - - CSM(Certified Scrum Master)
-    https://bcert.me/bc/html/img/badges/generated/badge-7227.png
+    
 
 
 <!---
