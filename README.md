@@ -17,25 +17,24 @@ My technical proficiencies include:
 
 - Certifications:
 
-- - RHCSA (v7.5/v8.0)
+- RHCSA (v7.5/v8.0)
     
 ![RHCSA](https://github.com/ishaniis/machine_learning_using_python/assets/51213452/ce6d4cdc-d013-42f2-b7fd-77a0f145b96b)
 
 
-- - RHCoE (Ansible)
+- RHCoE (Ansible)
 
 ![RHCoE Ansible](https://github.com/ishaniis/machine_learning_using_python/assets/51213452/ceba135b-1599-451e-a41e-bea613ec9336)
 
-- - Azure:
-  -  AI 900
+-  AI 900
 
 ![Azure AI Fundamentals](https://github.com/ishaniis/machine_learning_using_python/assets/51213452/9c86b694-705d-4b49-a644-a17768692399)
 
-  -  AZ 900
+-  AZ 900
 
 ![AZ 900](https://github.com/ishaniis/machine_learning_using_python/assets/51213452/0126c682-066e-4531-b472-f8d182080250)
   
-  -  DP 900
+-  DP 900
 
 ![DP 900](https://github.com/ishaniis/machine_learning_using_python/assets/51213452/a51073e9-64b1-41ec-97f6-4b216840be1e)
     
