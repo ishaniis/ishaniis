@@ -16,7 +16,7 @@ My technical proficiencies include:
 - Other Skills: Machine Learning, Docker, GIT, Kubernetes, Autoware.auto, Carla, LGSVL, Simulink, Polyspace, VehicleSPY, Vector CANoe, Vector DaVinci, Computer Vision
 
 - Certifications:
-- 
+
 - - RHCSA (v7.5/v8.0)
     
 ![RHCSA](https://github.com/ishaniis/machine_learning_using_python/assets/51213452/ce6d4cdc-d013-42f2-b7fd-77a0f145b96b)
